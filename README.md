@@ -23,6 +23,7 @@ Firmware is matching our layout as well as options such as:
 - Split spacebar
 - WK/WKL/HHKB layout
 - RGB underglow
+- Capslock LED support
 
 # So what's next ?
 
