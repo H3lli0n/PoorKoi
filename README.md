@@ -25,6 +25,14 @@ Firmware is matching our layout as well as options such as:
 - RGB underglow
 - Capslock LED support
 
+# Special note / Disclaimer
+
+PCB underglow was not described in the GB and we were keeping it as a secret. After the GB, 5 people requested and extra PCB in purple and this batch was ordered with the same production file. Those 5 pcb arrived before the white ones and everything was fine.
+
+When Deltakeyco received the white PCB we discovered underglow LED were missing. As 5 people would be able to  make pictures with underglow we decided to buy and include the missing LED in the package.
+
+You're free to solder or ask someone to solder. Be advised this process is not so easy as parts are very tiny. Please take time to ask or watch video how to properly solder those components ! 
+
 # So what's next ?
 
 Next HLB's project is a TKL made of aluminum with CNC machining. It will be more expensive but others _Poor_ projects will come next.
