@@ -33,6 +33,16 @@ When Deltakeyco received the white PCB we discovered underglow LED were missing.
 
 You're free to solder or ask someone to solder. Be advised this process is not so easy as parts are very tiny. Please take time to ask or watch video how to properly solder those components ! 
 
+Ok now you are well aware of the risks, you can follow for example this documentation : [How to Solder SMD / SMT Components](https://www.instructables.com/How-to-Solder-SMD-SMT-Components-With-a-Soldering-/)
+On the PCB you will find 16 spots like this one 
+
+
+![PCB led footprint](img/led_pcb.png)
+
+As you can see there is a dot and vertical line giving you the correct side for the SMD led component. When you flip it the green line must be on the same side as the dot
+
+![SMD](img/IMG_8274.jpg)
+
 # So what's next ?
 
 Next HLB's project is a TKL made of aluminum with CNC machining. It will be more expensive but others _Poor_ projects will come next.
