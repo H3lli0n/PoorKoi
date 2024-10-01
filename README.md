@@ -25,6 +25,10 @@ Firmware is matching our layout as well as options such as:
 - RGB underglow
 - Capslock LED support
 
+# Layouts
+
+![Supported_layouts](img/poorkoi-visual-layout.png)
+
 # Special note / Disclaimer
 
 PCB underglow was not described in the GB and we were keeping it as a secret. After the GB, 5 people requested and extra PCB in purple and this batch was ordered with the same production file. Those 5 pcb arrived before the white ones and everything was fine.
