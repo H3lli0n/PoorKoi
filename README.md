@@ -29,6 +29,10 @@ Firmware is matching our layout as well as options such as:
 
 ![Supported_layouts](img/poorkoi-visual-layout.png)
 
+# Release notes after production
+
+* 2024/10/07 listing the issues and upcoming free replacement parts [release note](notes/october2024/october20241007.md)
+
 # Special note / Disclaimer
 
 PCB underglow was not described in the GB and we were keeping it as a secret. After the GB, 5 people requested and extra PCB in purple and this batch was ordered with the same production file. Those 5 pcb arrived before the white ones and everything was fine.
