@@ -31,6 +31,7 @@ Firmware is matching our layout as well as options such as:
 
 # Release notes after production
 
+* 2024/10/12 notes about upcoming free fixes [fixes note](notes/october2024/october20241012.md)
 * 2024/10/07 listing the issues and upcoming free replacement parts [release note](notes/october2024/october20241007.md)
 
 # Special note / Disclaimer
