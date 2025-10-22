@@ -2,7 +2,7 @@
 
 - This folder contains the latest VIAL firmware
 
-[PoorKoi latest firmware](hlb_poorkoi_vial.bin)
+[PoorKoi latest firmware](https://github.com/H3lli0n/vial-qmk/releases?q=poorkoi&expanded=true)
 
 # How-to flash
 
